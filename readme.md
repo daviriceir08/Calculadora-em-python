@@ -16,7 +16,7 @@ Equação do 2º grau com Bhaskara
 Histórico das últimas 5 contas
 Interface gráfica com Tkinter
 
-Tecnlogias:
+Tecnologias:
 
 Python
 Tkinter
@@ -24,5 +24,4 @@ Matemática
 Data e hora
 
 Como executar:
-
 Rode o executavel .exe e aproveite
